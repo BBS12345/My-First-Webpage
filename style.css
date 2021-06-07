@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    background-color: aqua;
+}
+h1{
+    margin: 20px;
+    color: black;
+}
+p{
+    font-size: 20px;
+    color: purple;
+    font-family: georgia;
+}
+p:hover{
+    color: indigo;
+}
